@@ -1,5 +1,7 @@
 ## Give your Application Auto-Deploy Superpowers
 
+[![CircleCI](https://circleci.com/gh/Khaled-Abdelhamid/Give-Your-Application-Auto-Deploy-Superpowers/tree/main.svg?style=svg)](https://circleci.com/gh/Khaled-Abdelhamid/Give-Your-Application-Auto-Deploy-Superpowers/tree/main)
+
 In this project, you will prove your mastery of the following learning objectives:
 
 - Explain the fundamentals and benefits of CI/CD to achieve, build, and deploy automation for cloud-based software products.
